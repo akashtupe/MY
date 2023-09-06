@@ -1,3 +1,1 @@
-# avd
-# avd
 # my
